@@ -275,9 +275,7 @@ is [ForceDark.OFF](https://pub.dev/documentation/flutter_inappwebview/ForceDark/
 
 [forceDarkStrategy](https://pub.dev/documentation/flutter_inappwebview/latest/flutter_inappwebview/InAppWebViewSettings/forceDarkStrategy.html) ↔ [ForceDarkStrategy](https://pub.dev/documentation/flutter_inappwebview/ForceDarkStrategy-class.html)?
 \
-Sets whether Geolocation API is enabled. The default value is `true`. Set how WebView content should be darkened. The
-default value
-is [ForceDarkStrategy.PREFER\_WEB\_THEME\_OVER\_USER\_AGENT\_DARKENING](https://pub.dev/documentation/flutter_inappwebview/ForceDarkStrategy/PREFER_WEB_THEME_OVER_USER_AGENT_DARKENING-constant.html).
+Set how WebView content should be darkened. The default value is [ForceDarkStrategy.PREFER\_WEB\_THEME\_OVER\_USER\_AGENT\_DARKENING](https://pub.dev/documentation/flutter_inappwebview/ForceDarkStrategy/PREFER_WEB_THEME_OVER_USER_AGENT_DARKENING-constant.html).
 
 [geolocationEnabled](https://pub.dev/documentation/flutter_inappwebview/latest/flutter_inappwebview/InAppWebViewSettings/geolocationEnabled.html) ↔ [bool](https://api.flutter.dev/flutter/dart-core/bool-class.html)?
 \
